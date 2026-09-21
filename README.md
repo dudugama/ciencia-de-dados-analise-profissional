@@ -33,3 +33,72 @@ As tendências mais relevantes observadas são:
 4. **Conhecimento de nuvem e produção:** Azure, AWS, Google Cloud, Git, APIs, Docker e noções de MLOps aparecem com maior frequência conforme a senioridade aumenta.
 5. **Governança, ética e privacidade:** a Lei Geral de Proteção de Dados e o uso responsável de algoritmos exigem cuidado com segurança, vieses, explicabilidade e finalidade do tratamento.
 6. **Comunicação de impacto:** profissionais precisam transformar resultados técnicos em recomendações compreensíveis para gestores, clientes e outras equipes.
+
+## 2. Eduardo Gama
+
+### 2.1 Análise do GitHub
+
+**Usuário:** [dudugama](https://github.com/dudugama)  
+**Repositórios públicos identificados:** 4  
+**Seguidores:** registrar o número exibido no perfil no dia da entrega.  
+**Evolução de seguidores:** não foi possível calcular uma taxa de crescimento porque não existe uma medição anterior fornecida.
+
+O GitHub de Eduardo apresenta projetos de desenvolvimento web, lógica de programação e análise de dados. O repositório enviado inicialmente foi o [dudugama.github.io](https://github.com/dudugama/dudugama.github.io), que funciona como portfólio pessoal. Seu README é detalhado, apresenta objetivo, tecnologias, funcionalidades, estrutura, instruções de execução e contatos. Isso demonstra cuidado com documentação e experiência do leitor.
+
+#### Repositórios de destaque
+
+| Repositório | Conteúdo e avaliação | Estrelas em 21/09/2026 |
+|---|---|---:|
+| [scouting-corinthians](https://github.com/dudugama/scouting-corinthians) | Projeto mais alinhado à área escolhida. Utiliza Python, Pandas e Matplotlib para simular análise de jogadores. Deve ocupar posição de destaque no perfil. | 1 |
+| [dudugama.github.io](https://github.com/dudugama/dudugama.github.io) | Portfólio em HTML, CSS e JavaScript com projetos de UX/UI e Dados. A documentação é o principal ponto forte. | 1 |
+| [escritorio-leiloes-home-final](https://github.com/dudugama/escritorio-leiloes-home-final) | Projeto web relacionado a um problema profissional real. Demonstra aplicação prática e conhecimento de produto. | 1 |
+| [batalha-naval](https://github.com/dudugama/batalha-naval) | Projeto de lógica e desenvolvimento web. É válido como evidência de aprendizagem, mas tem menor aderência a Ciência de Dados. | 1 |
+
+**Análise crítica:** Eduardo possui o portfólio técnico mais desenvolvido do grupo e já apresenta um projeto diretamente relacionado a Dados. Entretanto, seu posicionamento ainda é dividido entre Design, desenvolvimento web e análise de dados. Para disputar vagas na área, precisa tornar a trilha de Dados mais evidente, fixar o projeto de scouting, melhorar seus READMEs com resultados quantitativos e publicar projetos com SQL e Power BI. O número de estrelas ainda mede principalmente a rede próxima e não impacto de comunidade; neste estágio, qualidade e evolução dos projetos são indicadores mais úteis.
+
+### 2.2 Análise do LinkedIn
+
+**Perfil:** [linkedin.com/in/eduardogamaa](https://linkedin.com/in/eduardogamaa)
+
+O histórico de Eduardo reúne formação em Publicidade e Propaganda, graduação em Análise e Desenvolvimento de Sistemas e experiência profissional em Marketing e Design. Essa combinação pode se tornar um diferencial em Marketing Analytics, BI, análise de campanhas, comportamento de clientes e visualização de dados.
+
+**Cargo-alvo recomendado:** Estagiário ou Analista de Dados Júnior, com possibilidade futura de evolução para Cientista de Dados.  
+**Stack a destacar:** Python, Pandas, SQL em desenvolvimento, Power BI, Excel, Git/GitHub, visualização e conhecimento de marketing.  
+**Headline recomendada:** `Estudante de ADS | Dados e Business Intelligence | Python, SQL e Power BI | Experiência em Marketing`
+
+Essa headline é mais clara do que uma lista extensa de áreas, porque informa formação, direção profissional, palavras-chave e diferencial. A rede deve ser usada para documentar projetos, aprendizados e resultados, não apenas candidaturas.
+
+**Crescimento da rede:** inserir conexões e seguidores atuais. Sem capturas anteriores, só é possível estabelecer a data de 21/09/2026 como linha de base.  
+**Atividade e engajamento:** o perfil deve manter pelo menos duas interações relevantes por semana e uma publicação técnica a cada duas ou três semanas. Posts curtos sobre decisões, erros e resultados do projeto de scouting seriam mais fortes do que certificados sem contexto.
+
+### 2.3 Instagram e outras redes
+
+**Instagram:** [@dudugama08](https://instagram.com/dudugama08)  
+**Behance:** [behance.net/eduardogama12](https://behance.net/eduardogama12)
+
+O Instagram fornecido parece ter função predominantemente pessoal. Não há obrigação de transformá-lo em perfil técnico; separar vida pessoal e posicionamento profissional pode ser uma decisão saudável. Caso a bio mencione carreira, ela deve direcionar para o LinkedIn ou portfólio.
+
+O Behance é relevante para mostrar repertório visual, UX/UI e capacidade de apresentação. Embora não seja uma plataforma típica de Ciência de Dados, fortalece uma competência valiosa: transformar informação complexa em narrativa visual. A recomendação é criar um case de *data storytelling* conectando análise, gráficos, decisão e design.
+
+### 2.4 Plano de carreira
+
+- **Curto prazo, 6 a 12 meses:** consolidar SQL, Python, Power BI e estatística; construir dois projetos de ponta a ponta; candidatar-se a estágios e vagas júnior de Dados, BI e Analytics.
+- **Médio prazo, 1 a 3 anos:** atuar profissionalmente como Analista de Dados, aprofundar experimentação e machine learning e desenvolver projetos ligados a marketing, produto ou futebol.
+- **Longo prazo, 3 a 5 anos ou mais:** evoluir para Cientista de Dados ou especialista em Analytics, com autonomia para conduzir análises e modelos que gerem impacto de negócio.
+
+### 2.5 PDI
+
+| Meta | Ação | Prazo | Indicador |
+|---|---|---|---|
+| Dominar SQL para nível júnior | Estudar consultas, joins, CTEs e funções de janela e resolver exercícios | 4 meses | 80 exercícios concluídos e 1 projeto publicado |
+| Fortalecer Python e estatística | Concluir análise exploratória e testes de hipótese em base real | 6 meses | 2 notebooks documentados |
+| Aprender BI | Criar dashboard com modelo de dados e indicadores | 5 meses | 1 dashboard publicado com case |
+| Melhorar posicionamento | Ajustar headline, seção Sobre e projetos destacados | 30 dias | Perfil atualizado e 3 projetos destacados |
+| Aumentar exposição ao mercado | Candidatar-se de forma direcionada e registrar resultados | 6 meses | 8 a 12 candidaturas qualificadas por semana |
+| Desenvolver comunicação | Publicar aprendizados e apresentar projetos | 6 meses | 6 publicações e 2 apresentações gravadas |
+
+### 2.6 Feedback por pares
+
+**Feedback de Grazielle:** 
+
+**Feedback de Luara:**
