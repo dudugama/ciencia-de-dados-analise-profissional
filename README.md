@@ -157,3 +157,58 @@ O perfil informado aparenta ser pessoal e não foi indicado portfólio alternati
 *Feedback de Eduardo:* Grazielle precisa transformar o interesse pela área em evidências públicas. O plano é possível se começar por fundamentos e projetos pequenos, em vez de tentar construir imediatamente um modelo complexo. A primeira prioridade deve ser GitHub, SQL e um dashboard bem documentado.
 
 *Feedback de Luara:* a falta de repositórios não impede o início da carreira, mas torna o perfil menos competitivo. Recomenda-se documentar cada etapa da faculdade e usar o README como apresentação profissional, mantendo metas simples e consistentes.
+
+## 4. Luara Saviti
+
+### 4.1 Análise do GitHub
+
+**Usuário:** [luara-savitisk8-dev](https://github.com/luara-savitisk8-dev)  
+**Repositórios públicos identificados:** 1  
+**Seguidores:** registrar o número atual no dia da entrega.  
+**Evolução:** não é possível medir crescimento sem observações anteriores.
+
+Meu único repositório público identificado é o [luara-savitisk8-dev-](https://github.com/luara-savitisk8-dev/luara-savitisk8-dev-), criado como apresentação do meu perfil e com 1 estrela na data da consulta. No README, explico que curso Análise e Desenvolvimento de Sistemas, estou começando meu portfólio e atualmente estudo Git, GitHub e lógica de programação. Também apresento meu objetivo de conseguir a primeira oportunidade na área e disponibilizo um link para o DEV.to.
+
+Considero que o ponto forte do meu posicionamento é a honestidade sobre o início da minha jornada e a documentação do meu desenvolvimento. Entretanto, ainda não possuo projetos que comprovem a aplicação prática dos conhecimentos estudados. A indicação “em breve: HTML, CSS e JavaScript” também não está completamente alinhada ao tema de Ciência de Dados. Por isso, pretendo priorizar lógica, Python, SQL, estatística e visualização de dados.
+
+### 4.2 Análise do LinkedIn
+
+**Perfil:** [Luara Saviti](https://www.linkedin.com/in/luara-saviti-33b739395)
+
+Meu posicionamento atual indica nível iniciante, formação em ADS e busca pela primeira oportunidade profissional. Uma headline coerente com meu objetivo seria: `Estudante de ADS | Em formação para Análise de Dados | Git, Lógica, Python e SQL`.
+
+**Cargo-alvo:** pretendo buscar inicialmente um estágio em Dados ou Tecnologia, com o objetivo de evoluir para Analista de Dados Júnior.  
+**Stack prioritária:** lógica de programação, Git/GitHub, Python, SQL, Excel ou Power BI e estatística básica.
+
+**Crescimento da rede:** utilizarei o número atual de conexões e seguidores como linha de base, pois não possuo registros anteriores para medir a evolução.  
+**Atividade e engajamento:** pretendo aproveitar os relatos de aprendizagem presentes no GitHub para produzir conteúdo no LinkedIn. Publicações sobre exercícios resolvidos, dificuldades superadas e pequenos projetos poderão demonstrar minha evolução.
+
+### 4.3 Instagram e outras redes
+
+**Instagram:** [@____01.10.777](https://instagram.com/____01.10.777)  
+**DEV.to:** [dev.to/luara_saviti](https://dev.to/luara_saviti)
+
+Utilizo meu Instagram de forma pessoal e não pretendo incluí-lo diretamente em minha estratégia profissional. Considero o DEV.to mais relevante para esse objetivo, pois posso publicar anotações sobre Git, lógica, Python e SQL, criando um histórico de aprendizagem e fortalecendo meu GitHub.
+
+### 4.4 Plano de carreira
+
+- **Curto prazo, 6 a 12 meses:** pretendo concluir os fundamentos de lógica, Git, Python e SQL, publicar três pequenos projetos e buscar uma oportunidade de estágio.
+- **Médio prazo, 1 a 3 anos:** quero atuar como Analista de Dados Júnior, trabalhar com dashboards e análises reais e aprofundar meus conhecimentos em estatística.
+- **Longo prazo, 3 a 5 anos ou mais:** pretendo evoluir para Cientista de Dados ou especialista em Analytics depois de consolidar experiência profissional e conhecimentos em machine learning.
+
+### 4.5 PDI
+
+| Meta | Ação | Prazo | Indicador |
+|---|---|---|---|
+| Consolidar lógica e Git | Concluir exercícios e versionar semanalmente | 3 meses | 30 exercícios e commits em 8 semanas |
+| Iniciar Python | Estudar sintaxe, funções, Pandas e gráficos | 5 meses | 2 pequenos projetos publicados |
+| Aprender SQL | Praticar SELECT, filtros, agregações e joins | 5 meses | 50 exercícios e 1 mini projeto |
+| Criar portfólio inicial | Publicar análise exploratória com README | 6 meses | 1 case completo |
+| Fortalecer comunicação | Escrever sobre a evolução no DEV.to e LinkedIn | 6 meses | 4 textos curtos publicados |
+| Buscar experiência | Candidatar-me a estágios aderentes | 9 meses | 6 a 10 candidaturas qualificadas por semana |
+
+### 4.6 Feedback por pares
+
+**Feedback de Eduardo:** Luara comunica bem que está no início e possui um README acolhedor. Para se alinhar a Ciência de Dados, deve substituir a lista futura centrada em desenvolvimento web por Python, SQL e visualização, além de publicar projetos progressivos.
+
+**Feedback de Grazielle:** o plano de começar por fundamentos é realista. A consistência será mais importante que a complexidade dos primeiros projetos. O DEV.to pode diferenciar o perfil se for usado para registrar aprendizados e dificuldades de forma objetiva.
