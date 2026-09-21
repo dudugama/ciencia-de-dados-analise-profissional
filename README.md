@@ -128,3 +128,32 @@ O levantamento de anúncios em LinkedIn, Glassdoor, Gupy e páginas de carreira 
 O endereço informado não apresentou repositórios públicos pesquisáveis em 21/09/2026. Isso pode significar que a conta é recente, que os projetos são privados ou que ainda não houve publicação. Para avaliação profissional, a ausência de repositórios limita a comprovação prática das competências.
 
 *Recomendação imediata:* criar um repositório de perfil com README e publicar ao menos um projeto introdutório. O README deve apresentar formação, objetivo, tecnologias em estudo, contatos e próximos projetos. O primeiro case pode analisar um conjunto público de dados com Python ou construir um dashboard com Power BI, sempre incluindo fonte, pergunta, tratamento, conclusões e instruções.
+
+### 3.3 Instagram e outras redes
+
+*Instagram:* [@grazi_sl_](https://instagram.com/grazi_sl_)
+
+O perfil informado aparenta ser pessoal e não foi indicado portfólio alternativo. Não é necessário profissionalizar o Instagram. A prioridade deve ser criar presença coerente em GitHub e LinkedIn. Um portfólio simples poderá ser construído depois que houver pelo menos dois projetos completos.
+
+### 3.4 Plano de carreira
+
+- *Curto prazo, 6 a 12 meses:* construir base em lógica, Git, Excel, SQL e Power BI; publicar os primeiros projetos; buscar estágio ou vaga de entrada em Dados.
+- *Médio prazo, 1 a 3 anos:* atuar como Analista de Dados, ganhar domínio de Python e estatística e participar de projetos reais.
+- *Longo prazo, 3 a 5 anos ou mais:* escolher especialização entre Analytics, BI ou Ciência de Dados e assumir análises de maior complexidade.
+
+### 3.5 PDI
+
+| Meta | Ação | Prazo | Indicador |
+|---|---|---|---|
+| Estruturar GitHub | Criar README de perfil e organizar repositórios | 30 dias | Perfil completo e 1 repositório público |
+| Aprender SQL | Praticar consultas e modelagem básica | 4 meses | 60 exercícios e 1 case |
+| Desenvolver BI | Construir dashboard a partir de uma base pública | 5 meses | 1 dashboard documentado |
+| Iniciar Python | Estudar lógica, Pandas e visualização | 6 meses | 1 notebook de análise exploratória |
+| Melhorar LinkedIn | Ajustar headline, Sobre, competências e projetos | 45 dias | Perfil completo e atualizado |
+| Criar rotina profissional | Interagir e publicar aprendizados | 6 meses | 2 interações semanais e 4 posts |
+
+### 3.6 Feedback por pares
+
+*Feedback de Eduardo:* Grazielle precisa transformar o interesse pela área em evidências públicas. O plano é possível se começar por fundamentos e projetos pequenos, em vez de tentar construir imediatamente um modelo complexo. A primeira prioridade deve ser GitHub, SQL e um dashboard bem documentado.
+
+*Feedback de Luara:* a falta de repositórios não impede o início da carreira, mas torna o perfil menos competitivo. Recomenda-se documentar cada etapa da faculdade e usar o README como apresentação profissional, mantendo metas simples e consistentes.
