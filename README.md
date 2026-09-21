@@ -103,13 +103,15 @@ O Behance é relevante para mostrar repertório visual, UX/UI e capacidade de ap
 
 **Feedback de Luara:**
 
-### 1.3 Faixas salariais
+## 3. Grazielle Silva
+
+### 3.1 Faixas salariais
 
 Levantamentos de plataformas como Glassdoor e guias de recrutamento mostram grande variação conforme cidade, setor, senioridade, modalidade de contratação e escopo do cargo. Como referência de mercado, anúncios e estimativas agregadas normalmente posicionam *Analista de Dados Júnior* em uma faixa aproximada de *R$ 3.500 a R$ 6.000 mensais, enquanto **Cientista de Dados Júnior* costuma aparecer aproximadamente entre *R$ 5.000 e R$ 8.000 mensais*. Níveis pleno e sênior podem ultrapassar esses valores de forma significativa.
 
 Essas faixas devem ser interpretadas como referência, não como piso ou garantia. Muitas vagas não divulgam remuneração e cargos com o mesmo nome podem ter responsabilidades muito diferentes. Benefícios, participação nos resultados e contratação como pessoa jurídica também alteram a comparação.
 
-### 1.4 Mapeamento de perfis de vagas
+### 3.2 Mapeamento de perfis de vagas
 
 O levantamento de anúncios em LinkedIn, Glassdoor, Gupy e páginas de carreira permitiu agrupar as oportunidades em três perfis recorrentes.
 
