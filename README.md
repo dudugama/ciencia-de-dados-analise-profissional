@@ -102,3 +102,27 @@ O Behance é relevante para mostrar repertório visual, UX/UI e capacidade de ap
 **Feedback de Grazielle:** 
 
 **Feedback de Luara:**
+
+### 1.3 Faixas salariais
+
+Levantamentos de plataformas como Glassdoor e guias de recrutamento mostram grande variação conforme cidade, setor, senioridade, modalidade de contratação e escopo do cargo. Como referência de mercado, anúncios e estimativas agregadas normalmente posicionam *Analista de Dados Júnior* em uma faixa aproximada de *R$ 3.500 a R$ 6.000 mensais, enquanto **Cientista de Dados Júnior* costuma aparecer aproximadamente entre *R$ 5.000 e R$ 8.000 mensais*. Níveis pleno e sênior podem ultrapassar esses valores de forma significativa.
+
+Essas faixas devem ser interpretadas como referência, não como piso ou garantia. Muitas vagas não divulgam remuneração e cargos com o mesmo nome podem ter responsabilidades muito diferentes. Benefícios, participação nos resultados e contratação como pessoa jurídica também alteram a comparação.
+
+### 1.4 Mapeamento de perfis de vagas
+
+O levantamento de anúncios em LinkedIn, Glassdoor, Gupy e páginas de carreira permitiu agrupar as oportunidades em três perfis recorrentes.
+
+| Perfil de vaga | Atividades recorrentes | Hard skills mais citadas | Soft skills mais citadas |
+|---|---|---|---|
+| Estágio ou Analista de Dados Júnior | Limpeza de bases, consultas, indicadores, relatórios e painéis | Excel, SQL, Power BI ou Tableau, Python básico, estatística descritiva | Curiosidade, organização, atenção, comunicação e disposição para aprender |
+| Cientista de Dados Júnior | Análise exploratória, testes de hipóteses, criação e avaliação de modelos | Python, SQL, Pandas, NumPy, scikit-learn, estatística, Git e visualização | Raciocínio analítico, resolução de problemas, comunicação e colaboração |
+| Cientista de Dados Pleno ou ML | Modelagem avançada, experimentação, implantação e monitoramento | Python, SQL, ML, APIs, nuvem, Docker, Spark e MLOps | Autonomia, visão de negócio, priorização, liderança técnica e comunicação com stakeholders |3.1 Análise do GitHub
+
+*Usuário informado:* [grazisilvaluiz-tech](https://github.com/grazisilvaluiz-tech)  
+*Repositórios públicos localizados:* 0 no momento da consulta.  
+*Seguidores e evolução:* registrar o valor atual; não há base histórica fornecida.
+
+O endereço informado não apresentou repositórios públicos pesquisáveis em 21/09/2026. Isso pode significar que a conta é recente, que os projetos são privados ou que ainda não houve publicação. Para avaliação profissional, a ausência de repositórios limita a comprovação prática das competências.
+
+*Recomendação imediata:* criar um repositório de perfil com README e publicar ao menos um projeto introdutório. O README deve apresentar formação, objetivo, tecnologias em estudo, contatos e próximos projetos. O primeiro case pode analisar um conjunto público de dados com Python ou construir um dashboard com Power BI, sempre incluindo fonte, pergunta, tratamento, conclusões e instruções.
